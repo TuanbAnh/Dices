@@ -760,7 +760,7 @@ export default {
       this.Dices = [3, 4, 6];
       this.ThoiGianVanMoi = 5;
       this.ThoiGianQuayXucXac = 5;
-      this.ThoiGian = 10;
+      this.ThoiGian = 60;
       this.BuffTienMin = 1000;
       this.BuffTienMax = 5000000;
 
